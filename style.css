@@ -3,5 +3,6 @@ body, html {
     height: 100%;
     margin: 0;
     padding: 0;
-    background: #5CA4EA;
+    background: #00000;
+    color: #1fcfcb;
   }
