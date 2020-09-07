@@ -5,9 +5,9 @@
 > **just click it**!
 
 ### Project:
-- [ ] Idea
+- [x] Idea
 - [ ] Back-end
-- [ ] Front-end
+- [x] Front-end
 
 ```javascript
 function test() {
