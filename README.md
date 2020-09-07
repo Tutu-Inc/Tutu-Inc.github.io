@@ -18,5 +18,5 @@ function test() {
 ### Owner:
 AttractiveToad | nikplay12345
 ------------ | -------------
-![Avatar](/img/avatar.png) | ![Avatar](/img/avatar.png)
+![Avatar](/img/avatar64x.png) | ![Avatar](/img/avatar64x.png)
 Alois | Niklas
