@@ -6,6 +6,7 @@
 
 ## Website: [www.fsstabgaben.at](http://www.fsstabgaben.at)
 
+![Avatar](/img/avatar.png)
 
 | First Header  | Second Header |
 | ------------- | ------------- |
