@@ -18,5 +18,5 @@ function test() {
 ### Members:
 AttractiveToad | nikplay12345
 ------------ | -------------
-![Avatar](/img/avatar128x.png) | ![Avatar](/img/avatar128x.png)
+![Avatar](/img/AttractiveToad128x128x.png) | ![Avatar](/img/avatar128x.png)
 Owner | Owner
