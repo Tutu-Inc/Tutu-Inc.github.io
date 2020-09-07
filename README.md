@@ -4,19 +4,19 @@
 > This link is 100% legit
 > **just click it**!
 
-### Owner:
-
-AttractiveToad | nikplay12345
------------- | -------------
-![Avatar](/img/avatar.png) | ![Avatar](/img/avatar.png)
-Alois | Niklas
+### Project:
+- [ ] Idea
+- [ ] Back-end
+- [ ] Front-end
 
 ```javascript
 function test() {
  console.log("look ma’, no spaces");
 }
 ```
-### Project:
-- [ ] Idea
-- [ ] Back-end
-- [ ] Front-end
+
+### Owner:
+AttractiveToad | nikplay12345
+------------ | -------------
+![Avatar](/img/avatar.png) | ![Avatar](/img/avatar.png)
+Alois | Niklas
