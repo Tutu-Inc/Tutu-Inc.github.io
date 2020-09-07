@@ -11,7 +11,7 @@
 
 ```javascript
 function test() {
- console.log("look ma’, no spaces");
+ console.log("Hi there, I'm using GitHub!");
 }
 ```
 
