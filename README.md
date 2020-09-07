@@ -1,9 +1,5 @@
 # **Tutu-Inc.github.io**
 
-## **Owner**:
-* AttractiveToad
-* nikplay12345
-
 ## Website: [www.fsstabgaben.at](http://www.fsstabgaben.at)
 
 ## **Owner**:
