@@ -6,11 +6,9 @@
 
 ## Website: [www.fsstabgaben.at](http://www.fsstabgaben.at)
 
-![Avatar](/img/avatar.png)
-
 ## **Owner**:
 
-First Header | Second Header
+AttractiveToad | nikplay12345
 ------------ | -------------
 ![Avatar](/img/avatar.png) | ![Avatar](/img/avatar.png)
-AttractiveToad | nikplay12345
+Alois | Niklas
