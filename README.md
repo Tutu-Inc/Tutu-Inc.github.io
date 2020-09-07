@@ -15,8 +15,8 @@ function test() {
 }
 ```
 
-### Owner:
+### Members:
 AttractiveToad | nikplay12345
 ------------ | -------------
 ![Avatar](/img/avatar128x.png) | ![Avatar](/img/avatar128x.png)
-Alois | Niklas
+Owner | Owner
