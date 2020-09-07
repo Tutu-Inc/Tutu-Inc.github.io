@@ -4,7 +4,7 @@
 > This link is 100% legit
 > **just click it**!
 
-### **Owner**:
+### Owner:
 
 AttractiveToad | nikplay12345
 ------------ | -------------
@@ -16,6 +16,7 @@ function test() {
  console.log("look ma’, no spaces");
 }
 ```
-- [x] this is a complete item
-- [ ] this is an incomplete item
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+### Project:
+- [ ] Idea
+- [ ] Back-end
+- [ ] Front-end
