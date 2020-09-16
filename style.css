@@ -31,14 +31,13 @@ html, body {
     z-index: 1;
     line-height: 300px;
     text-align: center;
-    transform: translate3d(0, 0, 0);
     color: white;
     text-transform: uppercase;
     font-family: 'Playfair Display', serif;
-    letter-spacing: .4em;
+    letter-spacing: 0.4em;
     font-size: 24px;
-    text-shadow: 0 1px 0 rgba(black, .1);
-    text-indent: .3em;
+    text-shadow: 0 1px 0 rgba(black, 0.1);
+    text-indent: 0.3em;
 }
 .wave {
     opacity: .4;
@@ -56,7 +55,7 @@ html, body {
 }
 .wave.-two {
     animation: drift 7000ms infinite linear;
-    opacity: .1;
+    opacity: 0.1;
     background: yellow;
 }
 .wave.-three {
