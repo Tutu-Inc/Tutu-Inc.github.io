@@ -7,7 +7,7 @@
 ### Project:
 - [x] Idea
 - [ ] Back-end
-- [] Front-end
+- [ ] Front-end
 
 ```javascript
 function test() {
