@@ -3,26 +3,25 @@
     from { transform: rotate(360deg); }
 }
 html {
-    background: #eee;
+    height: 100%;
+    background-color: #F9F6EF;
 }
 body {
+    height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
-}
-html, body {
-    height: 100%;
 }
 .box {
     transition: 800ms;
     width: 600px;
     height: 600px;
     border-radius: 5px;
-    box-shadow: 0 2px 30px rgba(black, .2);
-    background: lighten(#f0f4c3, 10%);
+    /*background: rgba(25, 25, 25, 0.5);*/
     position: relative;
     overflow: hidden;
     transform: translate3d(0, 0, 0);
+    
 } 
 .title {
     position: absolute;
@@ -32,11 +31,11 @@ html, body {
     z-index: 1;
     line-height: 300px;
     text-align: center;
-    color: white;
+    color: #F9F6EF;
     text-transform: uppercase;
-    font-family: 'Playfair Display', serif;
-    letter-spacing: 0.4em;
-    font-size: 24px;
+    font-family: Arial;
+    letter-spacing: 0.2em;
+    font-size: 44px;
     text-shadow: 0 1px 0 rgba(black, 0.1);
     text-indent: 0.3em;
 }
@@ -46,22 +45,25 @@ html, body {
     top: 3%;
     left: 50%;
     background: #0af;
+    /*background: crimson;*/
     width: 900px;
     height: 900px;
     margin-left: -450px;
     margin-top: -600px;
     transform-origin: 50% 48%;
-    border-radius: 43%;
+    border-radius: 85%;
     animation: drift 3000ms infinite linear;
 }
 .wave.-two {
     animation: drift 7000ms infinite linear;
     opacity: 0.1;
-    background: yellow;
+    /*background: yellow;*/
+    background: orange;
 }
 .wave.-three {
     animation: drift 5000ms infinite linear;
 }
+
 @media screen and (max-width: 800px){
     .wave {
         width: 500px;
