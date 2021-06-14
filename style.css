@@ -29,13 +29,13 @@ body {
     top: 0;
     width: 100%;
     z-index: 1;
-    line-height: 250px;
+    line-height: 300px;
     text-align: center;
     color: #F9F6EF;
     text-transform: uppercase;
     font-family: Arial;
     letter-spacing: 0.2em;
-    font-size: 15px;
+    font-size: 44px;
     text-shadow: 0 1px 0 rgba(black, 0.1);
     text-indent: 0.3em;
 }
